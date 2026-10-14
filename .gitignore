@@ -1,0 +1,6 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+permits.json
+.DS_Store
