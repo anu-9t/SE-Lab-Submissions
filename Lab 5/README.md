@@ -1,14 +1,15 @@
-# Lab 5 - Submission Link
+# Lab 5 - Static Code Analysis
 
 This lab (static code analysis of a campus parking permit manager) was
-done in a repository forked from the instructor's starter, so the
+done in a repository forked from the instructor's starter, so the full
 submission lives in that repository:
 
 **[github.com/anu-9t/SE_L5_10_parking_permits](https://github.com/anu-9t/SE_L5_10_parking_permits)**
 
-Deliverables:
-- [`parking_system.py`](https://github.com/anu-9t/SE_L5_10_parking_permits/blob/main/parking_system.py): cleaned code
-- [`issues.md`](https://github.com/anu-9t/SE_L5_10_parking_permits/blob/main/issues.md): issue table
-- [`reflection.md`](https://github.com/anu-9t/SE_L5_10_parking_permits/blob/main/reflection.md): reflection answers
+The main files are also copied into this folder:
+- [`parking_system.py`](parking_system.py): cleaned code
+- [`issues.md`](issues.md): issue table
+- [`reflection.md`](reflection.md): reflection answers
+- [`PES2UG24CS073_Lab5.pdf`](PES2UG24CS073_Lab5.pdf): screenshots of the Pylint, Bandit and Flake8 output
 
-It is linked here instead of copied, so there is a single copy of the work.
+The tool reports (before and after) are in the repository linked above.
